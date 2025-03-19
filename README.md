@@ -48,7 +48,3 @@ Here are some ideas to get you started:
 
   
 </p>
-<h3> About Me, </h3>
-<p>
-Enthusiastic and detail-oriented software engineer with a strong foundation in software development and a passion for  creating efficient, scalable solutions. Proficient in a diverse tech stack including Java, JavaScript, React.js, Node.js,  Express.js, and React Native. Skilled in utilizing core programming principles to design and build robust, maintainable  systems. Experienced in building full-stack applications, leveraging modern frameworks and tools to ensure high  performance, scalability, and a seamless user experience. Collaborative team player and dedicated to delivering quality  software and continuously enhancing technical expertise
-</p>
