@@ -49,5 +49,6 @@ Here are some ideas to get you started:
 
 
 Connect with me here <a href="https://www.linkedin.com/in/gaurav-wakhare-95b82620b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> 💼
+or drop a mail at <a href="gwakhare2418@gmail.com">gwakhare2418@gmail.com</a>
 <!-- <img src="https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> -->
 
