@@ -1,5 +1,5 @@
 # Hi there, I am Gaurav 👋
- <img src="https://github.com/Gaurav2418/Gaurav2418/blob/main/Header%20PNG.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica"> 
+ <img src="https://github.com/Gaurav2418/Gaurav2418/blob/main/Header%20PNG.png" alt="."> 
 
 <!--
 **Gaurav2418/Gaurav2418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
